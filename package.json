@@ -1,0 +1,14 @@
+{
+  "name": "Auto-Swap-Bot-Stabilizer-Phase-2",
+  "version": "1.0.0",
+  "description": "Automated randomized token swap bot for Stabilizer Phase 2",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.15.0",
+    "crypto-js": "^4.2.0"
+  }
+}
